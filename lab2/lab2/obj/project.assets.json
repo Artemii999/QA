@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheka\\Desktop\\QA\\lab2\\lab2\\lab2.csproj",
+      "projectUniqueName": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab2\\lab2\\lab2.csproj",
       "projectName": "lab2",
-      "projectPath": "C:\\Users\\cheka\\Desktop\\QA\\lab2\\lab2\\lab2.csproj",
+      "projectPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab2\\lab2\\lab2.csproj",
       "packagesPath": "C:\\Users\\cheka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheka\\Desktop\\QA\\lab2\\lab2\\obj\\",
+      "outputPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab2\\lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheka\\AppData\\Roaming\\NuGet\\NuGet.Config",

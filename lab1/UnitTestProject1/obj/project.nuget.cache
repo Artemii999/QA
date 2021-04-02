@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R+6wIh3D4I7hHAORRWm1h9tQSc6CpvCCe2au8prc1XIJTs+dvG8iCX1Q//M3AryGuxT3oE4AyWMb3wTJFx+ujQ==",
+  "dgSpecHash": "PkWvLaJznp+YfPXPqpzFNJ+M7d8tTfp2gN7kFYibjfjlhh6ariidAbe8sAvyy/JP0yxXk2xmL7qMC5c1xt4W4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\UnitTestProject1\\lab1.tests.csproj",
+  "projectFilePath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\UnitTestProject1\\lab1.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheka\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\cheka\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

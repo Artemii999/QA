@@ -16,3 +16,12 @@ C:\Users\cheka\Desktop\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
 C:\Users\cheka\Desktop\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
 C:\Users\cheka\Desktop\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
 C:\Users\cheka\Desktop\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\cheka\Documents\GitHub\QA\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb

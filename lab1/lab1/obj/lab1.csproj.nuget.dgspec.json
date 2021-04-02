@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\lab1.csproj": {}
+    "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\lab1.csproj": {
+    "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\lab1.csproj",
+        "projectUniqueName": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\lab1.csproj",
         "projectName": "lab1",
-        "projectPath": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\lab1.csproj",
+        "projectPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\lab1.csproj",
         "packagesPath": "C:\\Users\\cheka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\obj\\",
+        "outputPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheka\\AppData\\Roaming\\NuGet\\NuGet.Config",

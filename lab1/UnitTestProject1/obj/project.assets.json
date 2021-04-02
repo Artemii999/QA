@@ -5673,11 +5673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\UnitTestProject1\\lab1.tests.csproj",
+      "projectUniqueName": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\UnitTestProject1\\lab1.tests.csproj",
       "projectName": "lab1.tests",
-      "projectPath": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\UnitTestProject1\\lab1.tests.csproj",
+      "projectPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\UnitTestProject1\\lab1.tests.csproj",
       "packagesPath": "C:\\Users\\cheka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5694,8 +5694,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\lab1.csproj": {
-              "projectPath": "C:\\Users\\cheka\\Desktop\\QA\\lab1\\lab1\\lab1.csproj"
+            "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\lab1.csproj": {
+              "projectPath": "C:\\Users\\cheka\\Documents\\GitHub\\QA\\lab1\\lab1\\lab1.csproj"
             }
           }
         }
